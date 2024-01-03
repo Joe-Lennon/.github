@@ -26,12 +26,8 @@ I am an data science and anlaytics professional with 20+ years of experience lea
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/JMitchLenn/MLB-WAR/assets/95981647/82fdc65a-46a6-4f0d-9f50-cadd9888ce27" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN384-hZOmyehaMKf0JjYYm8Uv5oMGXYbVDtmlp4kew&s" />
-
-
-
-
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/1677285673076752385/cDac7lZl_400x400.jpg" />
-
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://business.uc.edu/centers-partnerships/business-analytics/training/ms-powerbi-training/_jcr_content/main/textimage_1459434562/image.img.png/1587492218429.png" />
 
 
 
