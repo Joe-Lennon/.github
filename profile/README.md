@@ -28,23 +28,24 @@ I am an data science and anlaytics professional with 20+ years of experience lea
 
 <br />
 
+<h2>  Connect with me:</h2>
+
+
+[https://www.linkedin.com/in/joe-lennon-266a2/](https://www.linkedin.com/in/joe-lennon-266a2/)
 
 
 
 #
 
-#
 
-
- <summary><h3>👨‍💻 About me </h3></summary>
-  I am an analytics leader with experience driving customer-focused analytics across dynamic operating environments.  
+ <summary><h3> About me </h3></summary>
+ I am an analytics leader with experience driving customer-focused analytics across dynamic operating environments.  
 <br> <br> 
  I have led analytics teams in several industries including financial services, publishing, business services, telecommunications and digital media. I have managed analytics teams in businesses experiencing rapid growth within emerging businesses, and also have driven change with larger established businesses with transforming revenue models and strategies.
 <br> <br>
 I enjoy leading and developing analytics and data science teams.  I have had success expanding analytics capabilities and creating innovative data-driven solutions within large consumer and and B2B subscription businesses.    I love using customer-centered data from across the business (marketing, sales, finance, research) to help companies improve operation.
 <br> <br>
 
-This project supports my thesis completed in 2020 as part of my MS in Data Science at Central Connecticut State Univerisity.
 <br> <br>
 
 AREAS OF EXPERTISE:
